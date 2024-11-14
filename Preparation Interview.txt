@@ -1,0 +1,35 @@
+Sia Partners: Top Tier Consulting Firm providing AI and Data transformation solutions for Banking, insurance, healthcare and media/télécoms.
+
+Strong data eco-System, I want to learn as much as I can and be as impactful as much as I can during my time at Sia partners.
+I Believe SIA Partners has a good understanding of all the different data topics that exists, from the structuration of all the R&D activities into different LABS. As a data enthusiast, SIA Partners is a place that MAKES A LOT OF SENSE to me. Being in a structured ecosytem is essential to me, as I aim to involve myself as much as I can in the Community.
+While I prefer working on projects linked to Banking & Capital Markets or Securities Services, I will be more than happy to dive in other industries, as I'm curious and find joy in discovering new data to play with.
+
+Why Banking & Capital Market: 
+Its an industry where data is not only omnipresent but also carry essential information. From front office trading, to trading and analytics to risk management, market Data consistency and availability is in my opinion the key factor when it comes an efficient Framework for the industry.
+Key goals:1) Centralization of market data to minimize unnecessery duplication or silos 2) use modern technologies, database systems to ingest and store market data
+So that for example, a team of data scientists and data analysts can be involved to further improve the ingestion of this data and create meaningful objects such as predictive models of stock price evolution, combined with an interactive Dashboard where the traders can have a global view on the key points of the data, and use it in order to support his decision making.
+
+
+Ekimetrics Tools: - Helix: Customer Analytics Dashboard
+	          - LISO: point-of-sales opening decision helper
+		  - ESG Copilot: Chatbot?
+
+
+
+
+Why Consulting:
+First, I am attracted to the idea of working on challenging business problems. I learnt at BNPP that my joy as a data scientist comes from tackling on projects from scratch, from researching the key components of the problems, testing multiples solutions while taking into account the potential conséquences on the business of every decision that I make. I enjoy being involved with business, and I Believe it is essential to enjoy that because as consultants, we need to understand them in order to deliver adequate solutions.
+
+Secondly, being in environment with high_level professionals is a personal goal of mine. Even though I am the kind of person who likes working alone most of the time and researching things by myself, I learnt at BNPP that during a long project where problems and unexpected turns of events can happen anytime, it is sometimes better to put ego aside and collaborate with others.
+
+At this stage of my career, I want to take this new Opportunity to experience more variety of work as a consultant, and taking ideas and concepts from one space to another, to become a better data scientist.
+
+
+
+Weakness: - Independant: Working alone, problem solver, ex with BNPP...….  There is a saying that I personnaly like, which says "Working alone together". It means we are all 		focused on our own personal Journey, but we are there for each other when we are in trouble.
+	  - Stubborness in the way thing should be done: I like to Believe in my ideas, and I Always instantly start creating a train of thoughts and solutions whenever a new 		problem comes up during a project. I have to admit I'm not the easiest one to convince when someone finds another approach, and even though sometimes I have b	een told that I'm too stubborn in my view of things, I Always listen and consider others points of view. It is Something Im actively working on a daily basis.
+
+Strengths: - I like to help people as it provides me a good sense of joy, so Im always willing to give a hand to a coworker on a topic that I'm working on.
+	   - I would also consider myself as reliable when it comes to understanding the subjects that I'm working; I always aim to own all the painpoints of projects that Im 		working on, so that I can clearly explain it to others.
+	   - I give you those 2 strengths because I realized about these by my experience at BNPP, but also during my time at the AIESEC student club in my University; as the 		Vice-President, I was passionate about all the responsabilities that I had, and naturally I would really find pleasure at helping the other members on how to 		deal with other AIESEC entities, how to reassure our clients regarding our products, and how to conduct the whole client process until the payment.
+
